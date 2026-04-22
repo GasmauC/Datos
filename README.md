@@ -29,9 +29,8 @@ El proyecto está organizado de la siguiente manera:
 * `dataset_medico.png` (Imagen gráfica del proyecto)
 * `README.md` (Documentación principal)
 
-## 👥 Equipo de Trabajo
 
-Proyecto Integrador 2026 - Tecnicatura en Ciencia de Datos e Inteligencia Artificial
+## Proyecto Integrador 2026 - Tecnicatura en Ciencia de Datos e Inteligencia Artificial
 
 ---
 *Materia: Estadística y Exploración de Datos | Primera Etapa: Entendimiento de los Datos*

@@ -35,10 +35,10 @@ El proyecto está organizado de la siguiente manera:
 Proyecto Integrador 2026 - Tecnicatura en Desarrollo de Software
 
 * **Creado por Gastón Mauricio** | GitHub: [@GasmauC](https://github.com/GasmauC)
-* **Nemesis Bracamonte** | GitHub: [@NemeBracamonte]
-* **Marusich Leonardo** | GitHub: [@Maruthek1dd]
-* **Virginia Varboza** | GitHub: [@VirBarboza]
-* **Donata Delfini** | GitHub: [@usuario5]
+* **Nemesis Bracamonte** | GitHub: [@NemeBracamonte](https://github.com/NemeBracamonte)
+* **Marusich Leonardo** | GitHub: [@Maruthek1dd](https://github.com/Maruthek1dd)
+* **Virginia Varboza** | GitHub: [@VirBarboza](https://github.com/VirBarboza)
+* **Donata Delfini** | GitHub:
 
 
 ---

@@ -30,7 +30,16 @@ El proyecto está organizado de la siguiente manera:
 * `README.md` (Documentación principal)
 
 
-## Proyecto Integrador 2026 - Tecnicatura en Ciencia de Datos e Inteligencia Artificial
+## 👥 Equipo de Trabajo
+
+Proyecto Integrador 2026 - Tecnicatura en Desarrollo de Software
+
+* **Creado por Gastón Mauricio** | GitHub: [@GasmauC](https://github.com/GasmauC)
+* **Nemesis Bracamonte** | GitHub: [@NemeBracamonte]
+* **Marusich Leonardo** | GitHub: [@Maruthek1dd]
+* **Virginia Varboza** | GitHub: [@VirBarboza]
+* **Donata Delfini** | GitHub: [@usuario5]
+
 
 ---
 *Materia: Estadística y Exploración de Datos | Primera Etapa: Entendimiento de los Datos*
